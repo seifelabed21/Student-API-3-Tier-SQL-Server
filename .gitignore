@@ -1,0 +1,15 @@
+# Visual Studio and .NET generated files
+.vs/
+**/bin/
+**/obj/
+*.user
+
+# Local deployment output
+**/publish/
+
+# Course material kept locally; do not redistribute
+project specs.pdf
+
+# Local secrets and environment-specific configuration
+.env
+*.secrets.json
