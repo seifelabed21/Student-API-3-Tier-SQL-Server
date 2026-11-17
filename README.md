@@ -373,6 +373,6 @@ The current application enables Swagger only in the Development environment. Kee
 
 ## Author
 
-**Seif Elabed**
+**Seifeddine El Abed**
 
 This project was created while studying RESTful APIs through Programming Advices Academy. I am keeping it as a personal record of learning ASP.NET Core, SQL Server, ADO.NET, stored procedures, layered architecture, and API client development.
